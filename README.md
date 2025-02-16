@@ -1,5 +1,6 @@
 # final project reactjs hadi dan ichal
-
+Ini adalah Final Project bulan ke-1 Superbootcamp yang diselenggarakan oleh Sanbercode pada bulan Agustus - Desember 2022. yang di buat oleh saya (Hadi) dan Ichal wira sukmana.
+Project ini awalnya dibuat dan disimpan di gitlab dan pada tanggal 16 februari 2025 sya pindahkan ke github.
 
 
 ## Getting started
